@@ -9,12 +9,12 @@
   <parent>
     <groupId>org.onebusaway</groupId>
     <artifactId>onebusaway-gtfs-modules</artifactId>
-    <version>1.3.115-SNAPSHOT</version>
+    <version>1.3.115.1</version>
   </parent>
 
   <dependencies>
     <dependency>
-      <groupId>org.onebusaway</groupId>
+      <groupId>com.github.pi-ware</groupId>
       <artifactId>onebusaway-csv-entities</artifactId>
     </dependency>
     <dependency>
